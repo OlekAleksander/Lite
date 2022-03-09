@@ -1,5 +1,9 @@
 
 # Lite Client V2
+
+mfw you have 1.7 animations enabled LOl
+![funny kid](https://i.imgur.com/4IWrfXL.png)
+
 ```
 Credits:
  - Mat (Client Base)
