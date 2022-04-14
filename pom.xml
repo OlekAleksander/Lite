@@ -20,7 +20,7 @@
         </repository>
         <repository>
             <id>strezz</id>
-            <url>https://github.com/Strezzed/strezz-central/raw/repository/</url>
+            <url>https://github.com/Hexeption/strezz-central/raw/repository</url>
         </repository>
     </repositories>
 
